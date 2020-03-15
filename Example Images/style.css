@@ -1,0 +1,12 @@
+.header {
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+
+.footer{
+    
+    position: fixed;
+    font-weight: bold;
+    bottom: 0px;
+  
+}
