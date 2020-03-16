@@ -1,12 +1,43 @@
-.header {
+body{
     font-family: 'Baloo Chettan 2', cursive;
+    
+}
+
+
+.red{
+    color: red;
+}
+.green{
+    color: green;
 }
 
 
 .footer{
-    
+    color: gray;
     position: fixed;
     font-weight: bold;
     bottom: 0px;
+    right:10px;
+    text-decoration: underline;
   
+}
+
+.margin_top{
+    margin-top: 100px ;
+}
+
+form.clear{
+    clear: both;
+}
+
+main h2{
+    text-decoration: underline;
+    margin-bottom: 40px;
+}
+
+img{
+    height: 300px;
+    padding-left : 70px;
+    padding-right: 70px;
+    
 }
