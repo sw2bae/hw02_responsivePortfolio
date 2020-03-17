@@ -3,7 +3,6 @@ body{
     
 }
 
-
 .red{
     color: red;
 }
@@ -14,10 +13,10 @@ body{
 
 .footer{
     color: gray;
-    position: fixed;
-    font-weight: bold;
+    position : fixed;
     bottom: 0px;
-    right:10px;
+    right: 10px;
+    font-weight: bold;
     text-decoration: underline;
   
 }
@@ -31,7 +30,6 @@ form.clear{
 }
 
 main h2{
-    text-decoration: underline;
     margin-bottom: 40px;
 }
 
@@ -40,4 +38,8 @@ img{
     padding-left : 70px;
     padding-right: 70px;
     
+}
+
+#mid{
+    text-align: center;
 }
